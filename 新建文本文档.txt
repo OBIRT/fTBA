@@ -1,0 +1,6 @@
+fTBA-X:
+Constructed fTBA for X function, and can be used directly for scalp-navigation
+
+fTBA_maker:
+Used to built fTBA based on a given nii file.
+
